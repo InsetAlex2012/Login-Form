@@ -89,3 +89,5 @@ This application allows users to create an account, validate credentials, and lo
 ## 👤 Author
 
 **AlexIsNotInset**
+
+![GuessTheNumber Screenshot](login_form.png)
