@@ -90,4 +90,4 @@ This application allows users to create an account, validate credentials, and lo
 
 **AlexIsNotInset**
 
-![GuessTheNumber Screenshot](login_form.png)
+![Login Form Screenshot](login_form.png)
